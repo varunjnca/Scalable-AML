@@ -2,13 +2,6 @@
 
 **Group:** Scalable AML
 
-## Team Members
-
-- Babak Davarmanesh (`bda52`)
-- Varun Jain (`vja15`)
-- Amogh Anant Shanbhag (`aas61`)
-- Shaik Mohammed Hassan (`smh47`)
-
 ## Project Overview
 
 Money laundering can involve complex transaction patterns that are difficult to identify by examining individual transactions in isolation. This project proposes a scalable Anti-Money Laundering (AML) monitoring system using IBM's AMLSim synthetic transaction dataset (Altman et al.). The system will combine streamed data processing, rule-based detection, graph-based relationship analysis, and statistical threshold optimization to generate and evaluate suspicious transaction alerts.
